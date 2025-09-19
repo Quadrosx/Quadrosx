@@ -1,4 +1,3 @@
-![myoctocat](myoctocat.png)
 
 # 👋 Olá! Eu sou a jeniffer
 
