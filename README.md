@@ -25,9 +25,6 @@
 - [LinkedIn](https://www.linkedin.com/in/jeniffer-q-893052205/?trk=opento_sprofile_topcard)
 
 ---
-
-✨ Sempre aberta a novas ideias, colaborações e oportunidades de aprendizado!fer-q-893052205/?trk=opento_sprofile_topcard)
-
 ---
 
 ✨ Sempre aberta a novas ideias, colaborações e oportunidades de aprendizado!
