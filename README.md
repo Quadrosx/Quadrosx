@@ -1,6 +1,6 @@
-# 👋 Olá! Eu sou Quadrosx
+# 👋 Olá! Eu sou a jeniffer
 
-<img src="COLE_AQUI_O_LINK_DA_IMAGEM_DO_MASCOTE" alt="Mascote Octocat Quadrosx" width="250"/>
+<img src="(https://github.com/Quadrosx/Quadrosx/blob/main/myoctocat.png)" alt="Mascote Octocat Quadrosx" width="250"/>
 
 💻 **Desenvolvedora apaixonada por tecnologia**
 
