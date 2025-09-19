@@ -1,3 +1,5 @@
+![myoctocat](./files/myoctocat.png)
+
 # 👋 Olá! Eu sou a jeniffer
 
 <img src="(https://github.com/Quadrosx/Quadrosx/blob/main/myoctocat.png)" alt="Mascote Octocat Quadrosx" width="250"/>
