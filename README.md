@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou a jeniffer
 
 💻 **Desenvolvedora apaixonada por tecnologia**
-<img width="960" height="1088" alt="PROANA" src="https://github.com/user-attachments/assets/9e4c8b8a-5015-4998-9026-8d8f78748fec" />
+<img width="300" alt="PROANA" src="https://github.com/user-attachments/assets/9e4c8b8a-5015-4998-9026-8d8f78748fec" />
 
 🌐 Foco em desenvolvimento web, redes de computadores e cibersegurança. Sempre transformando teoria em prática e aprendendo com cada projeto.
 
