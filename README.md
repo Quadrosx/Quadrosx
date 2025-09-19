@@ -1,4 +1,4 @@
-![myoctocat](files/myoctocat.png)
+![myoctocat](myoctocat.png)
 
 # 👋 Olá! Eu sou a jeniffer
 
@@ -24,6 +24,10 @@
 
 ## 📫 Vamos nos conectar?
 - [LinkedIn](https://www.linkedin.com/in/jeniffer-q-893052205/?trk=opento_sprofile_topcard)
+
+---
+
+✨ Sempre aberta a novas ideias, colaborações e oportunidades de aprendizado!fer-q-893052205/?trk=opento_sprofile_topcard)
 
 ---
 
