@@ -1,4 +1,3 @@
-https://github.com/Quadrosx/Quadrosx/commit/084504fdc65c87d761d7a8b0c42183c8e45b79e8
 # 👋 Olá! Eu sou a jeniffer
 
 💻 **Desenvolvedora apaixonada por tecnologia**
